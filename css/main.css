@@ -1,13 +1,13 @@
 /*	HTML – Style the entire web page itself before moving to other elements on the page*/
 html {
-	background: #cecda5;
+	background: #225772;
 	font-family: 'MuseoModerno', 'Raleway', cursive, sans-serif;
 	font-size: 12px;
 }
 
 /*	MAIN AREA – contains header and paragraph */
 #main {
-	background: #a4a2a3;
+	background: #A2A2A2;
 	margin: 20px 10px;
 	padding: 45px;
 	border-radius: 15px;
@@ -17,7 +17,7 @@ html {
 	text-align: center;
 	font-family: 'MuseoModerno', cursive;
 	font-size: 44pt;
-	color: #2C2B2B;
+	color: #000018;
 }
 
 #main-paragraph {
@@ -25,6 +25,7 @@ html {
 	font-family: 'Raleway', sans-serif;
 	font-style: oblique;
 	font-size: 26pt;
+	color: #204091;
 }
 
 /*	IMAGE OF RAINN WILSON	*/
