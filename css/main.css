@@ -9,14 +9,14 @@ https://coolors.co/000018-ab7b4c-a2a2a2-225772-204091 */
 
 /*	HTML – Style the entire web page itself before moving to other elements on the page*/
 html {
-	background: #225772;
+	background: #a2a2a2;
 	font-family: 'MuseoModerno', 'Raleway', cursive, sans-serif;
 	font-size: 13px;
 }
 
 /*	MAIN AREA – contains header and styled paragraph tag	*/
 #main {
-	background: #A2A2A2;
+	background: #204091;
 	margin: 30px 3px;
 	padding: 5px;
 	border-radius: 5px;
@@ -26,7 +26,7 @@ html {
 	text-align: center;
 	font-family: 'Raleway', sans-serif;
 	font-size: 5em;
-	color: #000018;
+	color: #ab7b4c;
 }
 
 #main-paragraph {
@@ -34,7 +34,7 @@ html {
 	font-family: 'MuseoModerno', cursive;
 	font-style: oblique;
 	font-size: 2em;
-	color: #204091;
+	color: #a2a2a2;
 }
 
 /*	ARTICLE	*/
@@ -45,9 +45,9 @@ html {
 	font-family: 'Raleway', sans-serif;
 	font-size: 1.5em;
 	display: block;
-  margin: auto;
+  	margin: auto;
 	padding: 1px 30px 20px;
-	background: #204091;
+	background: #225772;
 	border-radius: 3px;
 }
 
@@ -56,3 +56,42 @@ html {
 	height: auto;
 	padding: 15px 0;
 }
+
+/*	SECTION – TRIBUTE INFORMATION	*/
+#tribute-info h3 {
+	font-family: 'MuseoModerno', cursive;
+	font-style: oblique;
+	font-size: 3em;
+	text-align: center;
+	color: #ab7b4c;
+	margin: auto;
+}
+
+#tribute-info p {
+	color: #a2a2a2;
+	font-family: 'Raleway', sans-serif;
+}
+
+#tribute-info ol li {
+	color: #a2a2a2;
+	font-family: 'Raleway', sans-serif;
+}
+
+#book {
+	color: #FDFDF8;
+}
+
+/*	SECTION – WIKI INFORMATION	*/
+#imdb-ref h4 {
+	color: #ab7b4c;
+	text-align: center;
+}
+
+a {
+	color: #F7F785;
+}
+
+
+
+
+
