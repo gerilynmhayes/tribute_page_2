@@ -58,6 +58,13 @@ html {
 }
 
 /*	SECTION – TRIBUTE INFORMATION	*/
+#tribute-info {
+	display: block;
+	margin: auto;
+	width: 50%;
+	padding: 10px;
+}
+
 #tribute-info h3 {
 	font-family: 'MuseoModerno', cursive;
 	font-style: oblique;
@@ -67,13 +74,17 @@ html {
 	margin: auto;
 }
 
+#jims-quote {
+	font-size: 2em;
+}
+
 #tribute-info p {
-	color: #a2a2a2;
+	color: #F7F785;
 	font-family: 'Raleway', sans-serif;
 }
 
 #tribute-info ol li {
-	color: #a2a2a2;
+	color: #EBE4B9;
 	font-family: 'Raleway', sans-serif;
 }
 
@@ -91,6 +102,14 @@ a {
 	color: #F7F785;
 }
 
+/*	FOOTER 	*/
+footer {
+	display: block;
+	margin: auto;
+	text-align: center;
+	color: #EBE4B9;
+	font-family: 'Raleway', sans-serif;
+}
 
 
 
